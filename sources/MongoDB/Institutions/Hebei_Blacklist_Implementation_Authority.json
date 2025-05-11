@@ -1,0 +1,376 @@
+[{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "依据单位",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 14
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "--",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "保定市竞秀区人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "隆尧县人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "保定市莲池区人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "石家庄高新技术产业开发区劳动人事争议调解仲裁委员会",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "邯郸市邯山区人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "魏县人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "石家庄市桥西区人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "赵县人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "衡水市桃城区人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "邯郸经济技术开发区人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "孟村回族自治县人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "石家庄市长安区人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "容城县人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "灵寿县人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "正定县人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "故城县人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Major Tax Violations",
+    "做出执行依据单位/Implementation Authority": "邢台市襄都区人民法院",
+    "Category": "Major Tax Violations"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Major Tax Violations",
+    "做出执行依据单位/Implementation Authority": "大名县人民法院",
+    "Category": "Major Tax Violations"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Untrustworthy Entities in Production Safety",
+    "做出执行依据单位/Implementation Authority": "大名县人民法院",
+    "Category": "Workplace Safety"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Untrustworthy Entities in Production Safety",
+    "做出执行依据单位/Implementation Authority": "涿州市人民法院",
+    "Category": "Workplace Safety"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "大名县人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "新乐市人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "做出执行依据单位/Implementation Authority": "保定市竞秀区人民法院",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "做出执行依据单位/Implementation Authority": "大名县人民法院",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "雄县人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "邢台市襄都区人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "做出执行依据单位/Implementation Authority": "邢台市襄都区人民法院",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "唐山市路北区人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "做出执行依据单位/Implementation Authority": "依据单位",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Untrustworthy Entities in Production Safety",
+    "做出执行依据单位/Implementation Authority": "保定市竞秀区人民法院",
+    "Category": "Workplace Safety"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Customs Dishonest Enterprises",
+    "做出执行依据单位/Implementation Authority": "保定市竞秀区人民法院",
+    "Category": null
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "栾城区人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "做出执行依据单位/Implementation Authority": "涿州市人民法院",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Customs Dishonest Enterprises",
+    "做出执行依据单位/Implementation Authority": "涿州市人民法院",
+    "Category": null
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "沧州市新华区人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Untrustworthy Entities in Production Safety",
+    "做出执行依据单位/Implementation Authority": "依据单位",
+    "Category": "Workplace Safety"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Major Tax Violations",
+    "做出执行依据单位/Implementation Authority": "涿州市人民法院",
+    "Category": "Major Tax Violations"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "南宫市人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Customs Dishonest Enterprises",
+    "做出执行依据单位/Implementation Authority": "邢台市襄都区人民法院",
+    "Category": null
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Customs Dishonest Enterprises",
+    "做出执行依据单位/Implementation Authority": "大名县人民法院",
+    "Category": null
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Major Tax Violations",
+    "做出执行依据单位/Implementation Authority": "依据单位",
+    "Category": "Major Tax Violations"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors",
+    "做出执行依据单位/Implementation Authority": "涿州市人民法院",
+    "Category": "Dishonest Debtors"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Customs Dishonest Enterprises",
+    "做出执行依据单位/Implementation Authority": "依据单位",
+    "Category": null
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Untrustworthy Entities in Production Safety",
+    "做出执行依据单位/Implementation Authority": "邢台市襄都区人民法院",
+    "Category": "Workplace Safety"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Major Tax Violations",
+    "做出执行依据单位/Implementation Authority": "保定市竞秀区人民法院",
+    "Category": "Major Tax Violations"
+  },
+  "count": 1
+}]

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1459495c8e5615a2","type":"file","file":"Credit Pages Details/Autonomous Regions/Guangxi/Images/Pasted image 20241207164042.png","x":-80,"y":-100,"width":400,"height":213},
+		{"id":"de1af15529f84771","type":"file","file":"Credit Pages Details/Autonomous Regions/Guangxi/Images/Pasted image 20241207164053.png","x":-80,"y":320,"width":400,"height":92},
+		{"id":"ba23c324a06b00ad","type":"text","text":"Need to log in when trying to access red-/blacklists","x":-460,"y":180,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"26564a29ffd8856b","fromNode":"1459495c8e5615a2","fromSide":"bottom","toNode":"de1af15529f84771","toSide":"top"},
+		{"id":"e9ef97348b22b4cb","fromNode":"ba23c324a06b00ad","fromSide":"bottom","toNode":"de1af15529f84771","toSide":"left"}
+	]
+}

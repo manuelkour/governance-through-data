@@ -1,0 +1,132 @@
+[{
+  "_id": "Inner Mongolia",
+  "avgFields": 4,
+  "numOfDocs": 80,
+  "avgSize": 890.4
+},
+{
+  "_id": "Shaanxi",
+  "avgFields": 5.5,
+  "numOfDocs": 160,
+  "avgSize": 797.06875
+},
+{
+  "_id": "Anhui",
+  "avgFields": 8.64,
+  "numOfDocs": 75,
+  "avgSize": 1123.88
+},
+{
+  "_id": "Shanghai",
+  "avgFields": 6,
+  "numOfDocs": 180,
+  "avgSize": 775.9277777777778
+},
+{
+  "_id": "Jiangsu",
+  "avgFields": 7.144927536231884,
+  "numOfDocs": 621,
+  "avgSize": 930.2673107890499
+},
+{
+  "_id": "Gansu",
+  "avgFields": 4.607843137254902,
+  "numOfDocs": 51,
+  "avgSize": 799
+},
+{
+  "_id": "Hebei",
+  "avgFields": 15.566666666666666,
+  "numOfDocs": 150,
+  "avgSize": 1248.92
+},
+{
+  "_id": "Ningxia",
+  "avgFields": 5.333333333333333,
+  "numOfDocs": 30,
+  "avgSize": 545.5333333333333
+},
+{
+  "_id": "Henan",
+  "avgFields": 10.525525525525525,
+  "numOfDocs": 333,
+  "avgSize": 1322.7927927927929
+},
+{
+  "_id": "Guangdong",
+  "avgFields": 10.057971014492754,
+  "numOfDocs": 414,
+  "avgSize": 1362.6376811594203
+},
+{
+  "_id": "Sichuan",
+  "avgFields": 4,
+  "numOfDocs": 100,
+  "avgSize": 580.15
+},
+{
+  "_id": "Heilongjiang",
+  "avgFields": 7.794117647058823,
+  "numOfDocs": 34,
+  "avgSize": 1253.764705882353
+},
+{
+  "_id": "Jilin",
+  "avgFields": 3,
+  "numOfDocs": 112,
+  "avgSize": 661.875
+},
+{
+  "_id": "Beijing",
+  "avgFields": 5,
+  "numOfDocs": 50,
+  "avgSize": 516.04
+},
+{
+  "_id": "Shanxi",
+  "avgFields": 9.373983739837398,
+  "numOfDocs": 123,
+  "avgSize": 1411.2926829268292
+},
+{
+  "_id": null,
+  "avgFields": 4.863636363636363,
+  "numOfDocs": 22,
+  "avgSize": 1369.590909090909
+},
+{
+  "_id": "Liaoning",
+  "avgFields": 4.8,
+  "numOfDocs": 100,
+  "avgSize": 772.66
+},
+{
+  "_id": "Tianjin",
+  "avgFields": 5.030484160191273,
+  "numOfDocs": 1673,
+  "avgSize": 809.8123132098027
+},
+{
+  "_id": "Hainan",
+  "avgFields": 18,
+  "numOfDocs": 87,
+  "avgSize": 1750.3563218390805
+},
+{
+  "_id": "Tibet",
+  "avgFields": 2.0138500466107336,
+  "numOfDocs": 7509,
+  "avgSize": 340.7260620588627
+},
+{
+  "_id": "Shandong",
+  "avgFields": 7.151315789473684,
+  "numOfDocs": 608,
+  "avgSize": 969.9901315789474
+},
+{
+  "_id": "Xinjiang",
+  "avgFields": 16,
+  "numOfDocs": 100,
+  "avgSize": 1515.48
+}]

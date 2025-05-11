@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Individuals)",
+    "作出执行依据单位/Implementation Authority": "灵璧县人民法院"
+  },
+  "count": 6
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Entities)",
+    "作出执行依据单位/Implementation Authority": "阜阳市颍东区人民法院"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Individuals)",
+    "作出执行依据单位/Implementation Authority": "-"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Entities)",
+    "作出执行依据单位/Implementation Authority": "滁州市劳动人事争议仲裁委员会"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Entities)",
+    "作出执行依据单位/Implementation Authority": "宿州市埇桥区人民法院"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Entities)",
+    "作出执行依据单位/Implementation Authority": "全椒县人民法院"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Individuals)",
+    "作出执行依据单位/Implementation Authority": "南陵县人民法院"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Entities)",
+    "作出执行依据单位/Implementation Authority": "安徽省合肥市中级人民法院"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Entities)",
+    "作出执行依据单位/Implementation Authority": "宁国市人民法院"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Entities)",
+    "作出执行依据单位/Implementation Authority": "涡阳县人民法院"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Entities)",
+    "作出执行依据单位/Implementation Authority": "马鞍山市雨山区人民法院"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Entities)",
+    "作出执行依据单位/Implementation Authority": "来安县劳动人事争议仲裁委员会"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Individuals)",
+    "作出执行依据单位/Implementation Authority": "马鞍山市雨山区人民法院"
+  },
+  "count": 1
+}]

@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "主管地税机关/The Competent Territorial Tax Authorities": "国家税务总局宿松县税务局"
+  },
+  "number": 4
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "主管地税机关/The Competent Territorial Tax Authorities": "国家税务总局宿州市埇桥区税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "主管地税机关/The Competent Territorial Tax Authorities": "国家税务总局泾县税务局开发区税务分局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "主管地税机关/The Competent Territorial Tax Authorities": "国家税务总局蚌埠经济开发区税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "主管地税机关/The Competent Territorial Tax Authorities": "国家税务总局寿县税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "主管地税机关/The Competent Territorial Tax Authorities": "国家税务总局砀山县税务局"
+  },
+  "number": 1
+}]

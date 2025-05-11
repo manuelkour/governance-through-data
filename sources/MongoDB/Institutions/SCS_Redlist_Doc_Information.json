@@ -1,0 +1,120 @@
+[{
+  "_id": "Xinjiang",
+  "avgFields": 12.98019801980198,
+  "numOfDocs": 101,
+  "avgSize": 1142.7128712871288
+},
+{
+  "_id": "Liaoning",
+  "avgFields": 5,
+  "numOfDocs": 160,
+  "avgSize": 885.4625
+},
+{
+  "_id": "Tianjin",
+  "avgFields": 5,
+  "numOfDocs": 1349,
+  "avgSize": 718.0266864343959
+},
+{
+  "_id": "Hainan",
+  "avgFields": 14,
+  "numOfDocs": 87,
+  "avgSize": 1217.896551724138
+},
+{
+  "_id": "Shandong",
+  "avgFields": 5.166666666666667,
+  "numOfDocs": 420,
+  "avgSize": 677.8071428571428
+},
+{
+  "_id": "Sichuan",
+  "avgFields": 4,
+  "numOfDocs": 100,
+  "avgSize": 572.66
+},
+{
+  "_id": "Jilin",
+  "avgFields": 3,
+  "numOfDocs": 50,
+  "avgSize": 525.04
+},
+{
+  "_id": "Guangdong",
+  "avgFields": 4,
+  "numOfDocs": 50,
+  "avgSize": 563.64
+},
+{
+  "_id": "Heilongjiang",
+  "avgFields": 5,
+  "numOfDocs": 10,
+  "avgSize": 584.7
+},
+{
+  "_id": "Shanxi",
+  "avgFields": 5.3584905660377355,
+  "numOfDocs": 53,
+  "avgSize": 709.188679245283
+},
+{
+  "_id": null,
+  "avgFields": 4.95,
+  "numOfDocs": 20,
+  "avgSize": 2191.8
+},
+{
+  "_id": "Shanghai",
+  "avgFields": 3,
+  "numOfDocs": 90,
+  "avgSize": 460.73333333333335
+},
+{
+  "_id": "Jiangsu",
+  "avgFields": 7.564270152505447,
+  "numOfDocs": 459,
+  "avgSize": 770.2309368191721
+},
+{
+  "_id": "Gansu",
+  "avgFields": 3,
+  "numOfDocs": 20,
+  "avgSize": 583.5
+},
+{
+  "_id": "Ningxia",
+  "avgFields": 6,
+  "numOfDocs": 20,
+  "avgSize": 607
+},
+{
+  "_id": "Hebei",
+  "avgFields": 9.222222222222221,
+  "numOfDocs": 90,
+  "avgSize": 833.8
+},
+{
+  "_id": "Inner Mongolia",
+  "avgFields": 3.7762237762237763,
+  "numOfDocs": 2860,
+  "avgSize": 590.7650349650349
+},
+{
+  "_id": "Shaanxi",
+  "avgFields": 7.375,
+  "numOfDocs": 80,
+  "avgSize": 964.95
+},
+{
+  "_id": "Anhui",
+  "avgFields": 5.833333333333333,
+  "numOfDocs": 12,
+  "avgSize": 714.25
+},
+{
+  "_id": "Beijing",
+  "avgFields": 5,
+  "numOfDocs": 50,
+  "avgSize": 576.12
+}]

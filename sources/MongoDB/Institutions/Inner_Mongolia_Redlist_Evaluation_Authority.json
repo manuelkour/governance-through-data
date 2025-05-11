@@ -1,0 +1,581 @@
+[{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "--"
+  },
+  "number": 920
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局呼和浩特市新城区税务局"
+  },
+  "number": 18
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局呼和浩特市赛罕区税务局"
+  },
+  "number": 17
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局呼和浩特市回民区税务局"
+  },
+  "number": 12
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局呼和浩特市玉泉区税务局"
+  },
+  "number": 8
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局通辽市科尔沁区税务局"
+  },
+  "number": 7
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局包头市青山区税务局"
+  },
+  "number": 6
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局包头市昆都仑区税务局"
+  },
+  "number": 6
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局巴彦淖尔市临河区税务局"
+  },
+  "number": 5
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局包头稀土高新技术产业开发区税务局"
+  },
+  "number": 4
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局鄂尔多斯市东胜区税务局"
+  },
+  "number": 3
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局内蒙古自治区税务局第二税务分局社保费征收管理科"
+  },
+  "number": 3
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局鄂伦春自治旗税务局"
+  },
+  "number": 3
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局阿拉善左旗税务局"
+  },
+  "number": 3
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局库伦旗税务局"
+  },
+  "number": 3
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局五原县税务局"
+  },
+  "number": 3
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局宁城县税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局二连浩特市边境经济合作区税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局扎兰屯市税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局托克托县税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局鄂托克旗税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局陈巴尔虎旗税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局乌海市海勃湾区税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局内蒙古通辽经济技术开发区税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局满洲里市税务局城区税务分局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局赤峰市红山区税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局呼和浩特金山高新技术产业开发区税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局科尔沁右翼前旗税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局呼和浩特经济技术开发区税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局牙克石市税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局包头市东河区税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局敖汉旗税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局乌审旗税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局呼伦贝尔市海拉尔区税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局赤峰市税务局第二税务分局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局伊金霍洛旗税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局鄂托克前旗税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局赤峰市松山区税务局"
+  },
+  "number": 2
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局扎鲁特旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局太仆寺旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局科尔沁左翼后旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局丰镇市税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局林西县税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局包头市白云鄂博矿区税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局察哈尔右翼前旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局乌兰察布市集宁区税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局克什克腾旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局满洲里中俄互市贸易区税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局达尔罕茂明安联合旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局卓资县税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局巴林左旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局和林格尔县税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局武川县税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局正蓝旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局开鲁县税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局巴林右旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局东乌珠穆沁旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局土默特右旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局乌拉盖管理区税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局镶黄旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局乌兰浩特市税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局内蒙古和林格尔新区税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局乌拉特中旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局磴口县税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局化德县税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局翁牛特旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局乌拉特前旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局内蒙古鄂尔多斯上海庙经济开发区税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局杭锦后旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局察哈尔右翼后旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局内蒙古乌海高新技术产业开发区税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局二连浩特市税务局城区税务分局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局阿鲁科尔沁旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局锡林浩特市税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局清水河县税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局扎赉特旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局呼伦贝尔市扎赉诺尔区税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局土默特左旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局乌海市乌达区税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局内蒙古锡林郭勒经济技术开发区税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局准格尔旗税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局内蒙古兴安盟经济技术开发区税务局"
+  },
+  "number": 1
+},
+{
+  "_id": {
+    "ListCode": "Class A Taxpayer",
+    "评定机构/Evaluation Body": "国家税务总局四子王旗税务局"
+  },
+  "number": 1
+}]

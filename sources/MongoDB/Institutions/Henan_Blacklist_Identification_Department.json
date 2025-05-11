@@ -1,0 +1,696 @@
+[{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "郑州市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 22
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "信阳市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 10
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "新安县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 6
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "汝州市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 6
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "濮阳市华龙区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 6
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "洛阳市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "商城县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "唐河县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "新乡市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "孟州市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "焦作高新区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "安阳市北关区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "舞阳县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "三门峡市湖滨区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "三门峡市陕州区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "鹤壁市淇县人力资源和社会部保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "周口市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "西峡县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "林州市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "漯河市源汇区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "襄城县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "嵩县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "信阳市固始县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "郑州市惠济区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "柘城县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "湖滨区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "漯河市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "淇县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "巩义市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "三门峡市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "临颍县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "济源市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "开封市顺河回族区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "平顶山市湛河区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "洛阳市老城区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "平顶山市汝州市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "洛阳市洛龙区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "濮阳市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "固始县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "沈丘县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "光山县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "南乐县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "温县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "漯河市郾城区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "洛阳市孟津区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "渑池县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "焦作市武陟县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "洛阳市嵩县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "民权县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "郑州航空港经济综合实验区组织人事和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "驻马店市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "灵宝市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "卢氏县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "南阳市镇平县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "安阳市殷都区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "洛阳市瀍河回族区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "商丘市柘城县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "开封市城乡一体化示范区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "南阳市南召县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "鹿邑县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "三门峡市灵宝市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "漯河市召陵区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "开封市兰考县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "宜阳县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "洛阳市宜阳县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "上蔡县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "新郑市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "鹤壁市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "洛阳市涧西区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "洛阳市新安县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "新蔡县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "开封市通许县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "南阳市西峡县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "许昌市襄城县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "新县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "邓州市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "博爱县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "内乡县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "洛阳市偃师区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "永城市人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "滑县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "开封市禹王台区人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "鹤壁市淇县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "修武县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "武陟县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "内黄县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Failure to Pay Migrant Workers' Wages",
+    "认定部门/Department Identified": "濮阳县人力资源和社会保障局",
+    "Category": "Failure to Pay Migrant Workers' Wages"
+  },
+  "count": 1
+}]

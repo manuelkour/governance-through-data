@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Individuals)",
+    "执行法院/Enforcement Court": "灵璧县人民法院"
+  },
+  "count": 6
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Individuals)",
+    "执行法院/Enforcement Court": "-"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Entities)",
+    "执行法院/Enforcement Court": "阜阳市颍东区人民法院"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Entities)",
+    "执行法院/Enforcement Court": "涡阳县人民法院"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Entities)",
+    "执行法院/Enforcement Court": "宁国市人民法院"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Entities)",
+    "执行法院/Enforcement Court": "马鞍山市雨山区人民法院"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Individuals)",
+    "执行法院/Enforcement Court": "马鞍山市雨山区人民法院"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Entities)",
+    "执行法院/Enforcement Court": "合肥市蜀山区人民法院"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Individuals)",
+    "执行法院/Enforcement Court": "南陵县人民法院"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Entities)",
+    "执行法院/Enforcement Court": "宿州市埇桥区人民法院"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Entities)",
+    "执行法院/Enforcement Court": "合肥市瑶海区人民法院"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Entities)",
+    "执行法院/Enforcement Court": "全椒县人民法院"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Debtors (Entities)",
+    "执行法院/Enforcement Court": "来安县人民法院"
+  },
+  "count": 1
+}]

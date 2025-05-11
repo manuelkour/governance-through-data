@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "ListCode": "Dishonest Enterprises",
+    "列入部门/Inclusion Of Sectors": "平罗县人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Seriously Untrustworthy Entities in the Public Resource Trading Sector",
+    "列入部门/Inclusion Of Sectors": "中宁县财政局",
+    "Category": null
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Seriously Untrustworthy Entities in the Public Resource Trading Sector",
+    "列入部门/Inclusion Of Sectors": "中卫市财政局",
+    "Category": null
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Enterprises",
+    "列入部门/Inclusion Of Sectors": "银川市兴庆区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Enterprises",
+    "列入部门/Inclusion Of Sectors": "银川市金凤区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Enterprises",
+    "列入部门/Inclusion Of Sectors": "吴忠市利通区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Seriously Untrustworthy Entities in the Public Resource Trading Sector",
+    "列入部门/Inclusion Of Sectors": "宁夏回族自治区财政厅",
+    "Category": null
+  },
+  "count": 1
+}]

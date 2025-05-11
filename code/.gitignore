@@ -1,0 +1,5 @@
+.env
+storage/
+
+# Python Cache
+__pycache__

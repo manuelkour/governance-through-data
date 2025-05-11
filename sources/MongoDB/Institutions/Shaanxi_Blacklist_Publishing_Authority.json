@@ -1,0 +1,576 @@
+[{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "宝鸡市陈仓区人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 26
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "西安市临潼区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 7
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "延安市宝塔区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 7
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "咸阳市秦都区人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 7
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "大理市人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 7
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "渭南市临渭区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "咸阳市杨陵区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "宝鸡市金台区人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "西安市阎良区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "澄城县人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "陇县人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "咸阳市渭城区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "梅州市梅江区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "盘锦市大洼区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "旬阳市人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "渭南市华州区人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "太白县人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "深圳市龙华区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "西安市灞桥区人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "韩城市人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "城固县人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "西安市长安区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "惠水县人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "神木县人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "宁强县人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "定边县人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "歧山县人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "商洛市商州区人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "百色市右江区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "郓城县人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "泾阳县人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "云县人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "永康市人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "周至县人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "安康市汉滨区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "渭南市临渭区人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "信阳市平桥区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "西安市莲湖区人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "大荔县人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "石泉县人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "铜川市耀州区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "三原县人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "镇巴县人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "乾县人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "韶关市浈江区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "沅陵县人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "眉县人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "延安市宝塔区人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "上海市第一中级人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "靖边县人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "眉县人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "大荔县人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "阜新市清河门区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "上海市浦东新区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "宜君县人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "靖边县人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "神木市人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "宝鸡市陈仓区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "扶风县人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "西安市长安区人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "镇巴县人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "横山县人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "蒲城县人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "安塞县人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "山阳县人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "西安市鄠邑区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "榆林市榆阳区人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "柳州市柳南区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "延安市安塞区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "长春市二道区人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Companies)",
+    "发布机关/Publishing Authority": "仁怀市人民法院",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Punishment (Individuals)",
+    "发布机关/Publishing Authority": "周至县人民法院",
+    "Category": "Dishonest Individuals"
+  },
+  "count": 1
+}]

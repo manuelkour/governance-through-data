@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "ListCode": "Dishonest Enterprises",
+    "受理机关/Reception Authorities": "五大连池市市场监督管理局",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Enterprises",
+    "受理机关/Reception Authorities": "佳木斯市前进区市场监督管理局",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Enterprises",
+    "受理机关/Reception Authorities": "哈尔滨经济技术开发区市场监督管理局",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Enterprises",
+    "受理机关/Reception Authorities": "齐齐哈尔市建华区市场监督管理局",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Enterprises",
+    "受理机关/Reception Authorities": "富裕县市场监督管理局",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Enterprises",
+    "受理机关/Reception Authorities": "牡丹江市市场监督管理局",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "ListCode": "Dishonest Enterprises",
+    "受理机关/Reception Authorities": "杜尔伯特蒙古族自治县市场监督管理局",
+    "Category": "Dishonest Enterprises"
+  },
+  "count": 1
+}]
